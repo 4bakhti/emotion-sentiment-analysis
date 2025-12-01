@@ -118,5 +118,5 @@ print(pred)  # Output: 1 (joy)
 
 ## Dataset
 
-The project uses the [dair-ai/emotion](https://huggingface.co/datasets/dair-ai/emotion) dat
+The project uses the [dair-ai/emotion](https://huggingface.co/datasets/dair-ai/emotion) dataset
 
