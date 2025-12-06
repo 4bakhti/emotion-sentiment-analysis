@@ -38,7 +38,8 @@ Preprocessing and cleaning utilities are included, and trained models with vecto
 Install required packages:
 
 ```bash
-pip install pandas numpy torch scikit-learn==1.6.1 nltk beautifulsoup4 tqdm contractions```
+pip install pandas numpy torch scikit-learn==1.6.1 nltk beautifulsoup4 tqdm contractions
+```
 
 ---
 
