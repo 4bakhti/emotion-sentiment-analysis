@@ -1,0 +1,8 @@
+venv310/
+.ipynb_checkpoints/
+__pycache__/
+models/
+utils/
+*.pth
+*.pkl
+*.json
