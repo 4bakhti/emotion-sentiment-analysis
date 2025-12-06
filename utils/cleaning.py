@@ -29,3 +29,8 @@ def light_clean(text):
     text = re.sub(r'@\w+', '<USER>', text)
     text = re.sub(r'\s+', ' ', text).strip()
     return text
+
+def numericalize_tokens(tokens, vocab):
+    unk_idx = vocab.get("<UNK>", 1)
+    return [vocab.get(tok, unk_idx) for tok in tokens]
+
