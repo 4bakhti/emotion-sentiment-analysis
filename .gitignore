@@ -1,3 +1,7 @@
-.venv/
+venv310/
 __pycache__/
-*.pyc
+.ipynb_checkpoints/
+*.pickle
+*.pkl
+*.pt
+*.pth
